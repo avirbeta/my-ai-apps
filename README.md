@@ -23,7 +23,7 @@
 | `Izorgram-release.apk` | Релизная сборка | 12.10.1 (v70389) |
 
 ### Сборка из исходников
-Исходники: [Izorgram-Sources](https://github.com/vany201847dody-art/Izorgram-Sources) — форк [Goregram](https://github.com/AmanoTeam/Goregram).
+Исходники: [Izorgram-Sources](https://github.com/avirbeta/Izorgram-Sources) — форк [Goregram](https://github.com/AmanoTeam/Goregram).
 
 ```
 ./gradlew :TMessagesProj_App:assembleAfatRelease
